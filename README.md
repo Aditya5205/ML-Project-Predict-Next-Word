@@ -1,1 +1,1 @@
-# ML-Project-Word-Prediction
+# ML-Project-Predict-Next-Word
